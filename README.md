@@ -1,4 +1,4 @@
-- # 👋 Hi, I'm Mian Hussain Ali (@Hussain702)
+- # 👋 Hi, I'm  Hussain Ali (@Hussain702)
 
 Aspiring Data Engineer and ML enthusiast, currently pursuing my studies at **Quaid-e-Azam University, Pakistan**. I'm passionate about building scalable data pipelines and exploring the intersection of **Data Engineering**, **Machine Learning**, and **Python programming**.
 
